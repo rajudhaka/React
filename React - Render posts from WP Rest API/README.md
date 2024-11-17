@@ -6,10 +6,12 @@ First Setp: Reinstall Dependencies
 
 Navigate to your project’s root directory in the terminal and run one of the following commands based on your package manager:
 
-•	If you’re using npm:
+If you’re using npm:
+
 ```bash
 npm install
 ```
+
 This command will regenerate the node_modules folder and install all necessary dependencies for your project.
 
 Then, run the development server:
